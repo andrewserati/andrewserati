@@ -1,11 +1,9 @@
-<h3 style="text-align: center">Hi, I'm Andrew!</h3> 
+## Hi, I'm Andrew!
 
-<p style="text-align:center;">_welcome to my <i>github profile</i></p>
+##### _welcome to my *github profile*
 
-<img src="https://media.giphy.com/media/9MIzdMaj7PkE4Tn2TD/giphy.gif" style="zoom:25%;"/>
-
-
-
+<img src="https://media.giphy.com/media/9MIzdMaj7PkE4Tn2TD/giphy.gif" style="zoom:30%;"/>
+=======
 <!--
 **andrewserati/andrewserati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,7 @@
 
 <p style="text-align:center;">_welcome to my <i>github profile</i></p>
 
-<img src="https://media.giphy.com/media/9MIzdMaj7PkE4Tn2TD/giphy.gif" style="zoom:40%;"/>
+<img src="https://media.giphy.com/media/9MIzdMaj7PkE4Tn2TD/giphy.gif" style="zoom:25%;"/>
 
 
 

@@ -2,8 +2,8 @@
 
 ##### _welcome to my *github profile*
 
-<img src="https://media.giphy.com/media/9MIzdMaj7PkE4Tn2TD/giphy.gif" style="zoom:30%;"/>
-=======
+<img src="https://media.giphy.com/media/eFdMpYCCI6mOJOYc9r/giphy.gif" width="300px" height="300px"/>
+
 <!--
 **andrewserati/andrewserati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
